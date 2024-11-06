@@ -1,0 +1,8 @@
+.btn__resume {
+    border: 1px solid var(--primary);
+    outline: none;
+    background: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}

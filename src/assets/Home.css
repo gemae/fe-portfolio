@@ -1,0 +1,13 @@
+.social__icons {
+    cursor: pointer;
+}
+.social__icons svg:hover{
+    color: var(--theme-color);
+    transition: 400ms;
+}
+
+@media only screen and (min-width:767px) {
+    br {
+        display: none;
+    }
+}

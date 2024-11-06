@@ -1,0 +1,67 @@
+/* Works.css */
+.form-container {
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-height: 100vh;
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    max-width: 800px;
+}
+
+.form p {
+    padding-right: 45%;
+}
+
+.input {
+    width: calc(50% - 10px);
+    height: 60px;
+}
+
+.input, .textarea {
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid var(--primary);
+    font-size: 16px;
+    background-color: transparent;
+}
+
+.input:active, .textarea:active {
+    border: 2px solid var(--theme-color);
+    background: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.input:focus, .textarea:focus {
+    border: 2px solid var(--theme-color);
+    background: none;
+    box-shadow: none;
+    outline: none;
+}
+
+.textarea {
+    resize: vertical;
+    width: 100%;
+}
+
+.button-submit {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button-submit:hover {
+    color: var(--theme-color);
+}

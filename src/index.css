@@ -1,13 +1,91 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@layer base {
+  :root {
+    --theme-color: rgb(178 129 101);
+    --theme-pink: rgb(223 146 146);
+    --theme-brown: rgb(178 129 101);
+    --theme-green: rgb(56 128 135);
+    --primary: #1A1818;
+    --main-bg: #EEE7E1;
+    --theme-bg: rgb(238 231 225);
+  }
+}
+/* Animated BG */
+.background {
+  animation: Gradient 15s ease infinite;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+  padding:0;
+  margin:0px;
+}
+.circle {
+  height: 18px;
+  width: 18px;
+  border-radius: 18px;
+  background-color: var(--theme-color);
+  position: fixed; 
+  top: 0;
+  left: 0;
+  pointer-events: none;
+  z-index: 99999999;
 }
 
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  overflow-x: hidden;
+  position: relative;
+  height: 100%;
+}
+h1,h2, h3, h4, h5, h6, button {
+  font-family: 'DM Serif Display', serif;
+}
+
+button.main-btn {
+  bottom: 100px;
+  right: -100px;
+}
+
+#home,#about,#skills,#works, #contact {
+  width: 100%;
+  max-width: 1280px;
+  margin: 6em 124px;
+  padding: 2em 0;
+}
+h1 {
+  font-size: 80px;
+  letter-spacing: 5px;
+  line-height: 1.5;
+}
+
+p {
+  font-weight: 300;
+}
+
+nav a{
+  color: var(--primary);
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+section {
+  min-height: 100vh;
+  max-height: 100%;
+  position: relative;
+}
+
+.section__title {
+  position: absolute;
+  top: 0;
+  left: 0;
 }

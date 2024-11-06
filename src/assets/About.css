@@ -1,0 +1,10 @@
+hr {
+    border-bottom: 1px solid var(--theme-color);
+}
+.about__content {
+    /* border-bottom: 1px solid var(--theme-color); */
+}
+.photo {
+    /* border: 5px solid var(--theme-color); */
+    /* text-align: justify; */
+}
