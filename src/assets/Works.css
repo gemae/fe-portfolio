@@ -7,6 +7,10 @@
     cursor: pointer;
 }
 
+.tab.active {
+    color: var(--theme-color)!important;
+}
+
 .tab-content {
     display: inline-flex;
     flex-wrap: wrap;
@@ -30,6 +34,7 @@
     align-items: flex-start;
     cursor: pointer;
     position: relative;
+    overflow: hidden;
 }
 .tile p {
     z-index: 1;

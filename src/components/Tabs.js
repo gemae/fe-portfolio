@@ -24,7 +24,7 @@ const Tabs = ({ tabs }) => {
             tools: ['Wordpress', 'Elementor', 'ACF', 'JavaScript', 'PHP', 'CSS'],
             img: maxForklift,
             type: 'Wordpress',
-            url: ''
+            url: 'https://maximalforkliftsnz.co.nz/'
         },
         {
             title: 'Click n Learn',
@@ -32,7 +32,7 @@ const Tabs = ({ tabs }) => {
             tools: ['Wordpress', 'Elementor', 'ACF', 'JavaScript', 'CSS'],
             img: clicknLearn,
             type: 'Wordpress',
-            url: ''
+            url: 'https://clicknlearnenglish.com/'
         },
         {
             title: 'Emoji Song Quiz',
@@ -40,7 +40,7 @@ const Tabs = ({ tabs }) => {
             tools: ['Alpine JS', 'HTML', 'CSS'],
             img: esqGame,
             type: 'Frameworks',
-            url: ''
+            url: 'https://gemae.github.io/Emoji-Song-Quiz/'
         },
         {
             title: 'Just Tank',

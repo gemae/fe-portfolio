@@ -51,14 +51,14 @@ h1,h2, h3, h4, h5, h6, button {
 
 button.main-btn {
   bottom: 100px;
-  right: -100px;
+  left: 5em;
 }
 
 #home,#about,#skills,#works, #contact {
   width: 100%;
-  max-width: 1280px;
   margin: 6em 124px;
-  padding: 2em 0;
+  max-width: 1480px;
+  padding: 2em 5em;
 }
 h1 {
   font-size: 80px;
@@ -87,5 +87,5 @@ section {
 .section__title {
   position: absolute;
   top: 0;
-  left: 0;
+  left: 1em;
 }

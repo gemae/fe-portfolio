@@ -3,9 +3,9 @@ import '../assets/Skills.css';
 import Button from '../components/Button';
 
 const Experience = () => {
-
     const handleClick = () => {
-        alert('Button clicked!');
+        // Open the PDF in a new tab
+        window.open('https://drive.google.com/file/d/19g6tIAmhLZ3YQE0LrLiGbMSniTaXhYrT/view?usp=sharing', '_blank');
     };
 
     return (
@@ -64,4 +64,4 @@ const Experience = () => {
     )
 }
 
-export default Experience
+export default Experience;
