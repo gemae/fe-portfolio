@@ -64,7 +64,7 @@ const Tabs = ({ tabs }) => {
             tools: ['Wordpress', 'Elementor', 'Woocommerce', 'ACF', 'JavaScript', 'PHP', 'CSS'],
             img: limitlessFinance,
             type: 'Wordpress',
-            url: 'https://limitlessfistg.wpenginepowered.com/'
+            url: 'https://limitlessfinance.co.nz/'
         },
         {
             title: 'Lonking NZ',
