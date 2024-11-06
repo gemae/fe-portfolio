@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/fe-portfolio/static/css/main.549e1cf7.css",
+    "main.js": "/fe-portfolio/static/js/main.44e91947.js",
+    "static/js/787.128fc6e9.chunk.js": "/fe-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/OraIceBath-Desktop.png": "/fe-portfolio/static/media/OraIceBath-Desktop.227a91753d7a7c5231d3.png",
+    "static/media/Projectfloors-Desktop.png": "/fe-portfolio/static/media/Projectfloors-Desktop.013e84a52225ee040c10.png",
+    "static/media/Thhangman-Desktop.png": "/fe-portfolio/static/media/Thhangman-Desktop.29c8f16b1b881b930528.png",
+    "static/media/Justank-Desktop.png": "/fe-portfolio/static/media/Justank-Desktop.5ba6017e3878dc4ea2ec.png",
+    "static/media/NAForklift-Desktop.png": "/fe-portfolio/static/media/NAForklift-Desktop.d4185884b8ca5d8f71c2.png",
+    "static/media/LimitlessFinance-Desktop.png": "/fe-portfolio/static/media/LimitlessFinance-Desktop.bf8391e9b34e20e00c15.png",
+    "static/media/MassageTherapeutics-Desktop.png": "/fe-portfolio/static/media/MassageTherapeutics-Desktop.2b9223b6ad125071ed98.png",
+    "static/media/LegacyLearning-Desktop.png": "/fe-portfolio/static/media/LegacyLearning-Desktop.9e981942c2b1c919b79c.png",
+    "static/media/LongkingNZ-Desktop.png": "/fe-portfolio/static/media/LongkingNZ-Desktop.776d4fdc90026264ba55.png",
+    "static/media/ClicknLearn-Desktop.png": "/fe-portfolio/static/media/ClicknLearn-Desktop.e9cac73331ca3b899824.png",
+    "static/media/Maxforklift-Desktop.png": "/fe-portfolio/static/media/Maxforklift-Desktop.29f3c3135385a2e0fca5.png",
+    "static/media/DreamMachine-desktop.png": "/fe-portfolio/static/media/DreamMachine-desktop.3e26f05df64728a6d1ae.png",
+    "static/media/Educational-Game.png": "/fe-portfolio/static/media/Educational-Game.3c8f6b017386a350bd1f.png",
+    "static/media/ESQ-Game.png": "/fe-portfolio/static/media/ESQ-Game.aa2a4060cbb0727b6b7b.png",
+    "static/media/Wegide-desktop.png": "/fe-portfolio/static/media/Wegide-desktop.0563132503ce5deb30fc.png",
+    "static/media/Myphoto.jpg": "/fe-portfolio/static/media/Myphoto.651a07decc0659a7edcd.jpg",
+    "index.html": "/fe-portfolio/index.html",
+    "main.549e1cf7.css.map": "/fe-portfolio/static/css/main.549e1cf7.css.map",
+    "main.44e91947.js.map": "/fe-portfolio/static/js/main.44e91947.js.map",
+    "787.128fc6e9.chunk.js.map": "/fe-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.549e1cf7.css",
+    "static/js/main.44e91947.js"
+  ]
+}
