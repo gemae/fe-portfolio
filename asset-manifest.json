@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fe-portfolio/static/css/main.549e1cf7.css",
-    "main.js": "/fe-portfolio/static/js/main.44e91947.js",
+    "main.css": "/fe-portfolio/static/css/main.da909c0f.css",
+    "main.js": "/fe-portfolio/static/js/main.d551f4c4.js",
     "static/js/787.128fc6e9.chunk.js": "/fe-portfolio/static/js/787.128fc6e9.chunk.js",
     "static/media/OraIceBath-Desktop.png": "/fe-portfolio/static/media/OraIceBath-Desktop.227a91753d7a7c5231d3.png",
     "static/media/Projectfloors-Desktop.png": "/fe-portfolio/static/media/Projectfloors-Desktop.013e84a52225ee040c10.png",
@@ -20,12 +20,12 @@
     "static/media/Wegide-desktop.png": "/fe-portfolio/static/media/Wegide-desktop.0563132503ce5deb30fc.png",
     "static/media/Myphoto.jpg": "/fe-portfolio/static/media/Myphoto.651a07decc0659a7edcd.jpg",
     "index.html": "/fe-portfolio/index.html",
-    "main.549e1cf7.css.map": "/fe-portfolio/static/css/main.549e1cf7.css.map",
-    "main.44e91947.js.map": "/fe-portfolio/static/js/main.44e91947.js.map",
+    "main.da909c0f.css.map": "/fe-portfolio/static/css/main.da909c0f.css.map",
+    "main.d551f4c4.js.map": "/fe-portfolio/static/js/main.d551f4c4.js.map",
     "787.128fc6e9.chunk.js.map": "/fe-portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.549e1cf7.css",
-    "static/js/main.44e91947.js"
+    "static/css/main.da909c0f.css",
+    "static/js/main.d551f4c4.js"
   ]
 }
